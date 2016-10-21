@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<laterographics_xml type="Generator">
+<Generator type="Canvas">
+<Pattern type="Group">
+<operation>max</operation>
+	<Pattern type="Toggle">
+
+
+
+          <Pattern type="Group">
+            <operation>max</operation>
+            <Pattern type="Image">
+              <Pattern type="Texture" subtype="Vibration">
+                <freq units="Hz">50</freq>
+                <amplitude>1</amplitude>
+              </Pattern>
+              <mask>
+                <imgfile type="gray">B3_Civilisations/Cotes.png</imgfile>
+                <blur>yes</blur>
+                <position>centered</position>
+                <lock_aspect_ratio>yes</lock_aspect_ratio>
+                <reference_maximized>yes</reference_maximized>
+                <width units="%">0.9</width>
+                <height units="%">0.9</height>
+                <default_alpha units="%">0</default_alpha>
+              </mask>
+            </Pattern>
+            <Pattern type="Audio">
+              <sound>
+            <audiofile>B3_Civilisations/Chine.wav</audiofile>
+            <mask>
+              <imgfile type="gray">B3_Civilisations/Chine.png</imgfile>
+              <position>centered</position>
+              <lock_aspect_ratio>yes</lock_aspect_ratio>
+              <reference_maximized>yes</reference_maximized>
+              <width units="%">0.9</width>
+              <height units="%">0.9</height>
+              <default_alpha units="%">0</default_alpha>
+            </mask>
+          </sound> 
+              <sound>
+            <audiofile>B3_Civilisations/Mesopotamie.wav</audiofile>
+            <mask>
+              <imgfile type="gray">B3_Civilisations/Mesopotamie.png</imgfile>
+              <position>centered</position>
+              <lock_aspect_ratio>yes</lock_aspect_ratio>
+              <reference_maximized>yes</reference_maximized>
+              <width units="%">0.9</width>
+              <height units="%">0.9</height>
+              <default_alpha units="%">0</default_alpha>
+            </mask>
+          </sound>
+              <sound>
+            <audiofile>B3_Civilisations/Inde.wav</audiofile>
+            <mask>
+              <imgfile type="gray">B3_Civilisations/Inde.png</imgfile>
+              <position>centered</position>
+              <lock_aspect_ratio>yes</lock_aspect_ratio>
+              <reference_maximized>yes</reference_maximized>
+              <width units="%">0.9</width>
+              <height units="%">0.9</height>
+              <default_alpha units="%">0</default_alpha>
+            </mask>
+          </sound>
+              <sound>
+            <audiofile>B3_Civilisations/Egypte.wav</audiofile>
+            <mask>
+              <imgfile type="gray">B3_Civilisations/Egypte.png</imgfile>
+              <position>centered</position>
+              <lock_aspect_ratio>yes</lock_aspect_ratio>
+              <reference_maximized>yes</reference_maximized>
+              <width units="%">0.9</width>
+              <height units="%">0.9</height>
+              <default_alpha units="%">0</default_alpha>
+            </mask>
+          </sound>
+              <sound>
+            <audiofile>B3_Civilisations/Mexique.wav</audiofile>
+            <mask>
+              <imgfile type="gray">B3_Civilisations/Mexique.png</imgfile>
+              <position>centered</position>
+              <lock_aspect_ratio>yes</lock_aspect_ratio>
+              <reference_maximized>yes</reference_maximized>
+              <width units="%">0.9</width>
+              <height units="%">0.9</height>
+              <default_alpha units="%">0</default_alpha>
+            </mask>
+          </sound>
+              <sound>
+            <audiofile>B3_Civilisations/Oceans.wav</audiofile>
+            <mask>
+              <imgfile type="gray">B3_Civilisations/Oceans.png</imgfile>
+              <position>centered</position>
+              <lock_aspect_ratio>yes</lock_aspect_ratio>
+              <reference_maximized>yes</reference_maximized>
+              <width units="%">0.9</width>
+              <height units="%">0.9</height>
+              <default_alpha units="%">0</default_alpha>
+            </mask>
+          </sound>
+           </Pattern>
+          </Pattern>      
+          <Pattern type="Group">
+            <operation>max</operation>
+            <Pattern type="Image">
+              <Pattern type="Texture" subtype="Vibration">
+                <freq units="Hz">50</freq>
+                <amplitude>1</amplitude>
+              </Pattern>
+              <mask>
+                <imgfile type="gray">B4_Continents/Cotes.png</imgfile>
+                <blur>yes</blur>
+                <position>centered</position>
+                <lock_aspect_ratio>yes</lock_aspect_ratio>
+                <reference_maximized>yes</reference_maximized>
+                <width units="%">0.9</width>
+                <height units="%">0.9</height>
+                <default_alpha units="%">0</default_alpha>
+              </mask>
+            </Pattern>
+            <Pattern type="Audio">
+               <sound>
+            <audiofile>B4_Continents/Oceans.wav</audiofile>
+            <mask>
+              <imgfile type="gray">B4_Continents/Oceans.png</imgfile>
+              <position>centered</position>
+              <lock_aspect_ratio>yes</lock_aspect_ratio>
+              <reference_maximized>yes</reference_maximized>
+              <width units="%">0.9</width>
+              <height units="%">0.9</height>
+              <default_alpha units="%">0</default_alpha>
+            </mask>
+          </sound>
+               <sound>
+            <audiofile>B4_Continents/Ameriques.wav</audiofile>
+            <mask>
+              <imgfile type="gray">B4_Continents/Ameriques.png</imgfile>
+              <position>centered</position>
+              <lock_aspect_ratio>yes</lock_aspect_ratio>
+              <reference_maximized>yes</reference_maximized>
+              <width units="%">0.9</width>
+              <height units="%">0.9</height>
+              <default_alpha units="%">0</default_alpha>
+            </mask>
+          </sound>
+               <sound>
+            <audiofile>B4_Continents/Asie.wav</audiofile>
+            <mask>
+              <imgfile type="gray">B4_Continents/Asie.png</imgfile>
+              <position>centered</position>
+              <lock_aspect_ratio>yes</lock_aspect_ratio>
+              <reference_maximized>yes</reference_maximized>
+              <width units="%">0.9</width>
+              <height units="%">0.9</height>
+              <default_alpha units="%">0</default_alpha>
+            </mask>
+          </sound>
+               <sound>
+            <audiofile>B4_Continents/Europe.wav</audiofile>
+            <mask>
+              <imgfile type="gray">B4_Continents/Europe.png</imgfile>
+              <position>centered</position>
+              <lock_aspect_ratio>yes</lock_aspect_ratio>
+              <reference_maximized>yes</reference_maximized>
+              <width units="%">0.9</width>
+              <height units="%">0.9</height>
+              <default_alpha units="%">0</default_alpha>
+            </mask>
+          </sound>
+               <sound>
+            <audiofile>B4_Continents/Afrique.wav</audiofile>
+            <mask>
+              <imgfile type="gray">B4_Continents/Afrique.png</imgfile>
+              <position>centered</position>
+              <lock_aspect_ratio>yes</lock_aspect_ratio>
+              <reference_maximized>yes</reference_maximized>
+              <width units="%">0.9</width>
+              <height units="%">0.9</height>
+              <default_alpha units="%">0</default_alpha>
+            </mask>
+          </sound>
+               <sound>
+            <audiofile>B4_Continents/Oceanie.wav</audiofile>
+            <mask>
+              <imgfile type="gray">B4_Continents/Oceanie.png</imgfile>
+              <position>centered</position>
+              <lock_aspect_ratio>yes</lock_aspect_ratio>
+              <reference_maximized>yes</reference_maximized>
+              <width units="%">0.9</width>
+              <height units="%">0.9</height>
+              <default_alpha units="%">0</default_alpha>
+            </mask>
+          </sound>
+            </Pattern>
+          </Pattern>
+
+	</Pattern>
+</Pattern>
+</Generator>
+</laterographics_xml>
+
+
+
+
+

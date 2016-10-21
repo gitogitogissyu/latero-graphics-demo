@@ -1,0 +1,127 @@
+<Generator>
+	<ComboGen>
+		<VibroGen>
+			<mask>
+				<imgfile>Bordure.png</imgfile>
+				<textfile>Bordure.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>192</grayScale>
+				<scale>0.9</scale>
+			</mask>
+			<freq units="hz">50</freq>
+			<alternate>yes</alternate>
+			<rest_on_right>yes</rest_on_right>
+		</VibroGen>
+		<WaveGen>
+			<pitch units="mm">4</pitch>
+			<angle units="degree">90</angle>
+			<mask>
+				<imgfile>Humeur_vitree.png</imgfile>
+				<audiofile>Humeur_vitree.wav</audiofile>
+				<textfile>Humeur_vitree.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>170</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<WaveGen>
+			<pitch units="mm">2</pitch>
+			<angle units="degree">0</angle>
+			<mask>
+				<imgfile>Cornee.png</imgfile>
+				<audiofile>Cornee.wav</audiofile>
+				<textfile>Cornee.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<WaveGen>
+			<pitch units="mm">3</pitch>
+			<angle units="degree">45</angle>
+			<mask>
+				<imgfile>Humeur_acqueuse.png</imgfile>
+				<audiofile>Humeur_acqueuse.wav</audiofile>
+				<textfile>Humeur_acqueuse.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>214</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<WaveGen>
+			<pitch units="mm">2</pitch>
+			<angle units="degree">135</angle>
+			<mask>
+				<imgfile>Christalin.png</imgfile>
+				<audiofile>Christalin.wav</audiofile>
+				<textfile>Christalin.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<VibroGen>
+			<mask>
+				<imgfile>Pupille.png</imgfile>
+				<audiofile>Pupille.wav</audiofile>
+				<textfile>Pupille.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+			<freq units="hz">50</freq>
+			<alternate>yes</alternate>
+			<rest_on_right>yes</rest_on_right>
+		</VibroGen>
+		<WaveGen>
+			<pitch units="mm">3</pitch>
+			<angle units="degree">45</angle>
+			<mask>
+				<imgfile>Nerf_optique.png</imgfile>
+				<audiofile>Nerf_optique.wav</audiofile>
+				<textfile>Nerf_optique.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<VibroGen>
+			<mask>
+				<imgfile>Retine.png</imgfile>
+				<audiofile>Retine.wav</audiofile>
+				<textfile>Retine.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+			<freq units="hz">50</freq>
+			<alternate>yes</alternate>
+			<rest_on_right>yes</rest_on_right>
+		</VibroGen>
+		<WaveGen>
+			<pitch units="mm">1</pitch>
+			<angle units="degree">135</angle>
+			<mask>
+				<imgfile>Sclere.png</imgfile>
+				<audiofile>Sclere.wav</audiofile>
+				<textfile>Sclere.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<VibroGen>
+			<mask>
+				<imgfile>Iris.png</imgfile>
+				<audiofile>Iris.wav</audiofile>
+				<textfile>Iris.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+			<freq units="hz">50</freq>
+			<alternate>yes</alternate>
+			<rest_on_right>yes</rest_on_right>
+		</VibroGen>
+	</ComboGen>
+</Generator>

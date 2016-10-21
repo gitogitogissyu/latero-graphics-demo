@@ -1,0 +1,428 @@
+<?xml version="1.0"?>
+<laterographics_xml type="Generator">
+	<Generator type="Canvas">
+		<Pattern type="Group">
+			<operation>max</operation>
+			<Pattern type="Toggle">
+				
+				
+				
+				
+				
+				<Pattern type="Group">
+					<operation>max</operation>
+					<Pattern type="Image">
+						<Pattern type="Texture" subtype="Vibration">
+							<freq units="Hz">50</freq>
+							<amplitude>1</amplitude>
+						</Pattern>
+						<mask>
+							<imgfile type="gray">A3_Civilisations/Cotes.png</imgfile>
+							<blur>yes</blur>
+							<position>centered</position>
+							<lock_aspect_ratio>yes</lock_aspect_ratio>
+							<reference_maximized>yes</reference_maximized>
+							<width units="%">1</width>
+							<height units="%">1</height>
+							<default_alpha units="%">0</default_alpha>
+						</mask>
+					</Pattern>
+					<Pattern type="Image">
+						<Pattern type="Texture" subtype="LinearGrating">
+							<angle units="degree">0</angle>
+							<seed units="mm">0,0</seed>
+							<Grating>
+								<enable>yes</enable>
+								<ridge_size units="mm">3</ridge_size>
+								<gap_size units="mm">0</gap_size>
+							</Grating>
+							<amplitude>1</amplitude>
+						</Pattern>
+						<mask>
+							<imgfile type="gray">A3_Civilisations/Chine.png</imgfile>
+							<blur>yes</blur>
+							<position>centered</position>
+							<lock_aspect_ratio>yes</lock_aspect_ratio>
+							<reference_maximized>yes</reference_maximized>
+							<width units="%">1</width>
+							<height units="%">1</height>
+							<default_alpha units="%">0</default_alpha>
+						</mask>
+					</Pattern>
+					<Pattern type="Image">
+						<Pattern type="Texture" subtype="LinearGrating">
+							<angle units="degree">0</angle>
+							<seed units="mm">0,0</seed>
+							<Grating>
+								<enable>yes</enable>
+								<ridge_size units="mm">3</ridge_size>
+								<gap_size units="mm">0</gap_size>
+							</Grating>
+							<amplitude>1</amplitude>
+						</Pattern>
+						<mask>
+							<imgfile type="gray">A3_Civilisations/Mesopotamie.png</imgfile>
+							<blur>yes</blur>
+							<position>centered</position>
+							<lock_aspect_ratio>yes</lock_aspect_ratio>
+							<reference_maximized>yes</reference_maximized>
+							<width units="%">1</width>
+							<height units="%">1</height>
+							<default_alpha units="%">0</default_alpha>
+						</mask>
+					</Pattern>
+					<Pattern type="Image">
+						<Pattern type="Texture" subtype="LinearGrating">
+							<angle units="degree">0</angle>
+							<seed units="mm">0,0</seed>
+							<Grating>
+								<enable>yes</enable>
+								<ridge_size units="mm">3</ridge_size>
+								<gap_size units="mm">0</gap_size>
+							</Grating>
+							<amplitude>1</amplitude>
+						</Pattern>
+						<mask>
+							<imgfile type="gray">A3_Civilisations/Inde.png</imgfile>
+							<blur>yes</blur>
+							<position>centered</position>
+							<lock_aspect_ratio>yes</lock_aspect_ratio>
+							<reference_maximized>yes</reference_maximized>
+							<width units="%">1</width>
+							<height units="%">1</height>
+							<default_alpha units="%">0</default_alpha>
+						</mask>
+					</Pattern>
+					<Pattern type="Image">
+						<Pattern type="Texture" subtype="LinearGrating">
+							<angle units="degree">0</angle>
+							<seed units="mm">0,0</seed>
+							<Grating>
+								<enable>yes</enable>
+								<ridge_size units="mm">3</ridge_size>
+								<gap_size units="mm">0</gap_size>
+							</Grating>
+							<amplitude>1</amplitude>
+						</Pattern>
+						<mask>
+							<imgfile type="gray">A3_Civilisations/Egypte.png</imgfile>
+							<blur>yes</blur>
+							<position>centered</position>
+							<lock_aspect_ratio>yes</lock_aspect_ratio>
+							<reference_maximized>yes</reference_maximized>
+							<width units="%">1</width>
+							<height units="%">1</height>
+							<default_alpha units="%">0</default_alpha>
+						</mask>
+					</Pattern>
+					<Pattern type="Image">
+						<Pattern type="Texture" subtype="LinearGrating">
+							<angle units="degree">0</angle>
+							<seed units="mm">0,0</seed>
+							<Grating>
+								<enable>yes</enable>
+								<ridge_size units="mm">10</ridge_size>
+								<gap_size units="mm">0</gap_size>
+							</Grating>
+							<amplitude>1</amplitude>
+						</Pattern>
+						<mask>
+							<imgfile type="gray">A3_Civilisations/Mexique.png</imgfile>
+							<blur>yes</blur>
+							<position>centered</position>
+							<lock_aspect_ratio>yes</lock_aspect_ratio>
+							<reference_maximized>yes</reference_maximized>
+							<width units="%">1</width>
+							<height units="%">1</height>
+							<default_alpha units="%">0</default_alpha>
+						</mask>
+					</Pattern>
+					<Pattern type="Audio">
+						<sound>
+							<audiofile>A3_Civilisations/Chine.wav</audiofile>
+							<mask>
+								<imgfile type="gray">A3_Civilisations/Chine.png</imgfile>
+								<position>centered</position>
+								<lock_aspect_ratio>yes</lock_aspect_ratio>
+								<reference_maximized>yes</reference_maximized>
+								<width units="%">1</width>
+								<height units="%">1</height>
+								<default_alpha units="%">0</default_alpha>
+							</mask>
+						</sound>
+						<sound>
+							<audiofile>A3_Civilisations/Mesopotamie.wav</audiofile>
+							<mask>
+								<imgfile type="gray">A3_Civilisations/Mesopotamie.png</imgfile>
+								<position>centered</position>
+								<lock_aspect_ratio>yes</lock_aspect_ratio>
+								<reference_maximized>yes</reference_maximized>
+								<width units="%">1</width>
+								<height units="%">1</height>
+								<default_alpha units="%">0</default_alpha>
+							</mask>
+						</sound>
+						<sound>
+							<audiofile>A3_Civilisations/Inde.wav</audiofile>
+							<mask>
+								<imgfile type="gray">A3_Civilisations/Inde.png</imgfile>
+								<position>centered</position>
+								<lock_aspect_ratio>yes</lock_aspect_ratio>
+								<reference_maximized>yes</reference_maximized>
+								<width units="%">1</width>
+								<height units="%">1</height>
+								<default_alpha units="%">0</default_alpha>
+							</mask>
+						</sound>
+						<sound>
+							<audiofile>A3_Civilisations/Egypte.wav</audiofile>
+							<mask>
+								<imgfile type="gray">A3_Civilisations/Egypte.png</imgfile>
+								<position>centered</position>
+								<lock_aspect_ratio>yes</lock_aspect_ratio>
+								<reference_maximized>yes</reference_maximized>
+								<width units="%">1</width>
+								<height units="%">1</height>
+								<default_alpha units="%">0</default_alpha>
+							</mask>
+						</sound>
+						<sound>
+							<audiofile>A3_Civilisations/Mexique.wav</audiofile>
+							<mask>
+								<imgfile type="gray">A3_Civilisations/Mexique.png</imgfile>
+								<position>centered</position>
+								<lock_aspect_ratio>yes</lock_aspect_ratio>
+								<reference_maximized>yes</reference_maximized>
+								<width units="%">1</width>
+								<height units="%">1</height>
+								<default_alpha units="%">0</default_alpha>
+							</mask>
+						</sound>
+						<sound>
+							<audiofile>A3_Civilisations/Oceans.wav</audiofile>
+							<mask>
+								<imgfile type="gray">A3_Civilisations/Oceans.png</imgfile>
+								<position>centered</position>
+								<lock_aspect_ratio>yes</lock_aspect_ratio>
+								<reference_maximized>yes</reference_maximized>
+								<width units="%">1</width>
+								<height units="%">1</height>
+								<default_alpha units="%">0</default_alpha>
+							</mask>
+						</sound>
+					</Pattern>	    
+				</Pattern>
+				
+				<Pattern type="Group">
+					<operation>max</operation>
+					<Pattern type="Audio">
+						<sound>
+							<audiofile>A4_Continents/Oceans.wav</audiofile>
+							<mask>
+								<imgfile type="gray">A4_Continents/Oceans.png</imgfile>
+								<position>centered</position>
+								<lock_aspect_ratio>yes</lock_aspect_ratio>
+								<reference_maximized>yes</reference_maximized>
+								<width units="%">1</width>
+								<height units="%">1</height>
+								<default_alpha units="%">0</default_alpha>
+							</mask>
+						</sound>
+						<sound>
+							<audiofile>A4_Continents/Ameriques.wav</audiofile>
+							<mask>
+								<imgfile type="gray">A4_Continents/Ameriques.png</imgfile>
+								<position>centered</position>
+								<lock_aspect_ratio>yes</lock_aspect_ratio>
+								<reference_maximized>yes</reference_maximized>
+								<width units="%">1</width>
+								<height units="%">1</height>
+								<default_alpha units="%">0</default_alpha>
+							</mask>
+						</sound>
+						<sound>
+							<audiofile>A4_Continents/Asie.wav</audiofile>
+							<mask>
+								<imgfile type="gray">A4_Continents/Asie.png</imgfile>
+								<position>centered</position>
+								<lock_aspect_ratio>yes</lock_aspect_ratio>
+								<reference_maximized>yes</reference_maximized>
+								<width units="%">1</width>
+								<height units="%">1</height>
+								<default_alpha units="%">0</default_alpha>
+							</mask>
+						</sound>
+						<sound>
+							<audiofile>A4_Continents/Europe.wav</audiofile>
+							<mask>
+								<imgfile type="gray">A4_Continents/Europe.png</imgfile>
+								<position>centered</position>
+								<lock_aspect_ratio>yes</lock_aspect_ratio>
+								<reference_maximized>yes</reference_maximized>
+								<width units="%">1</width>
+								<height units="%">1</height>
+								<default_alpha units="%">0</default_alpha>
+							</mask>
+						</sound>
+						<sound>
+							<audiofile>A4_Continents/Afrique.wav</audiofile>
+							<mask>
+								<imgfile type="gray">A4_Continents/Afrique.png</imgfile>
+								<position>centered</position>
+								<lock_aspect_ratio>yes</lock_aspect_ratio>
+								<reference_maximized>yes</reference_maximized>
+								<width units="%">1</width>
+								<height units="%">1</height>
+								<default_alpha units="%">0</default_alpha>
+							</mask>
+						</sound>
+						<sound>
+							<audiofile>A4_Continents/Oceanie.wav</audiofile>
+							<mask>
+								<imgfile type="gray">A4_Continents/Oceanie.png</imgfile>
+								<position>centered</position>
+								<lock_aspect_ratio>yes</lock_aspect_ratio>
+								<reference_maximized>yes</reference_maximized>
+								<width units="%">1</width>
+								<height units="%">1</height>
+								<default_alpha units="%">0</default_alpha>
+							</mask>
+						</sound>
+					</Pattern>
+					<Pattern type="Image">
+						<Pattern type="Texture" subtype="Vibration">
+							<freq units="Hz">50</freq>
+							<amplitude>1</amplitude>
+						</Pattern>
+						<mask>
+							<imgfile type="gray">A4_Continents/Cotes.png</imgfile>
+							<blur>yes</blur>
+							<position>centered</position>
+							<lock_aspect_ratio>yes</lock_aspect_ratio>
+							<reference_maximized>yes</reference_maximized>
+							<width units="%">1</width>
+							<height units="%">1</height>
+							<default_alpha units="%">0</default_alpha>
+						</mask>
+					</Pattern>
+					<Pattern type="Image">
+						<Pattern type="Texture" subtype="LinearGrating">
+							<angle units="degree">0</angle>
+							<seed units="mm">0,0</seed>
+							<Grating>
+								<enable>yes</enable>
+								<ridge_size units="mm">6</ridge_size>
+								<gap_size units="mm">0</gap_size>
+							</Grating>
+							<amplitude>1</amplitude>
+						</Pattern>
+						<mask>
+							<imgfile type="gray">A4_Continents/Ameriques.png</imgfile>
+							<blur>yes</blur>
+							<position>centered</position>
+							<lock_aspect_ratio>yes</lock_aspect_ratio>
+							<reference_maximized>yes</reference_maximized>
+							<width units="%">1</width>
+							<height units="%">1</height>
+							<default_alpha units="%">0</default_alpha>
+						</mask>
+					</Pattern>
+					<Pattern type="Image">
+						<Pattern type="Texture" subtype="LinearGrating">
+							<angle units="degree">0</angle>
+							<seed units="mm">0,0</seed>
+							<Grating>
+								<enable>yes</enable>
+								<ridge_size units="mm">6</ridge_size>
+								<gap_size units="mm">0</gap_size>
+							</Grating>
+							<amplitude>1</amplitude>
+						</Pattern>
+						<mask>
+							<imgfile type="gray">A4_Continents/Asie.png</imgfile>
+							<blur>yes</blur>
+							<position>centered</position>
+							<lock_aspect_ratio>yes</lock_aspect_ratio>
+							<reference_maximized>yes</reference_maximized>
+							<width units="%">1</width>
+							<height units="%">1</height>
+							<default_alpha units="%">0</default_alpha>
+						</mask>
+					</Pattern>
+					<Pattern type="Image">
+						<Pattern type="Texture" subtype="LinearGrating">
+							<angle units="degree">45</angle>
+							<seed units="mm">0,0</seed>
+							<Grating>
+								<enable>yes</enable>
+								<ridge_size units="mm">4</ridge_size>
+								<gap_size units="mm">0</gap_size>
+							</Grating>
+							<amplitude>1</amplitude>
+						</Pattern>
+						<mask>
+							<imgfile type="gray">A4_Continents/Europe.png</imgfile>
+							<blur>yes</blur>
+							<position>centered</position>
+							<lock_aspect_ratio>yes</lock_aspect_ratio>
+							<reference_maximized>yes</reference_maximized>
+							<width units="%">1</width>
+							<height units="%">1</height>
+							<default_alpha units="%">0</default_alpha>
+						</mask>
+					</Pattern>
+					<Pattern type="Image">
+						<Pattern type="Texture" subtype="LinearGrating">
+							<angle units="degree">135</angle>
+							<seed units="mm">0,0</seed>
+							<Grating>
+								<enable>yes</enable>
+								<ridge_size units="mm">4</ridge_size>
+								<gap_size units="mm">0</gap_size>
+							</Grating>
+							<amplitude>1</amplitude>
+						</Pattern>
+						<mask>
+							<imgfile type="gray">A4_Continents/Afrique.png</imgfile>
+							<blur>yes</blur>
+							<position>centered</position>
+							<lock_aspect_ratio>yes</lock_aspect_ratio>
+							<reference_maximized>yes</reference_maximized>
+							<width units="%">1</width>
+							<height units="%">1</height>
+							<default_alpha units="%">0</default_alpha>
+						</mask>
+					</Pattern>
+					<Pattern type="Image">
+						<Pattern type="Texture" subtype="LinearGrating">
+							<angle units="degree">0</angle>
+							<seed units="mm">0,0</seed>
+							<Grating>
+								<enable>yes</enable>
+								<ridge_size units="mm">3</ridge_size>
+								<gap_size units="mm">0</gap_size>
+							</Grating>
+							<amplitude>1</amplitude>
+						</Pattern>
+						<mask>
+							<imgfile type="gray">A4_Continents/Oceanie.png</imgfile>
+							<blur>yes</blur>
+							<position>centered</position>
+							<lock_aspect_ratio>yes</lock_aspect_ratio>
+							<reference_maximized>yes</reference_maximized>
+							<width units="%">1</width>
+							<height units="%">1</height>
+							<default_alpha units="%">0</default_alpha>
+						</mask>
+					</Pattern>
+				</Pattern>
+		
+				
+			</Pattern>
+		</Pattern>
+	</Generator>
+</laterographics_xml>
+
+
+
+

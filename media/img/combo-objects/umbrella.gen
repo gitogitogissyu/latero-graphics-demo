@@ -1,0 +1,236 @@
+<?xml version="1.0"?>
+<laterographics_xml type="Generator">
+    <Generator type="Canvas">
+      <Pattern type="Group">
+        <operation type="max"/>
+        <Pattern type="Image">
+          <Pattern type="Texture" subtype="Vibration">
+            <freq units="Hz">50</freq>
+            <amplitude>1</amplitude>
+          </Pattern>
+          <mask>
+            <imgfile type="gray">umbrella1.png</imgfile>
+            <blur>yes</blur>
+            <position>centered</position>
+            <lock_aspect_ratio>yes</lock_aspect_ratio>
+            <reference_maximized>yes</reference_maximized>
+            <width units="%">0.7</width>
+            <height units="%">0.7</height>
+            <default_alpha units="%">0</default_alpha>
+          </mask>
+        </Pattern>
+        <Pattern type="Image">
+          <Pattern type="Texture" subtype="LinearGrating">
+            <angle units="degree">0</angle>
+            <seed units="mm">0,0</seed>
+            <Grating>
+              <enable>yes</enable>
+              <ridge_size units="mm">2.4</ridge_size>
+              <gap_size units="mm">0</gap_size>
+            </Grating>
+            <amplitude>1</amplitude>
+          </Pattern>
+          <mask>
+            <imgfile type="gray">umbrella2.png</imgfile>
+            <blur>yes</blur>
+            <position>centered</position>
+            <lock_aspect_ratio>yes</lock_aspect_ratio>
+            <reference_maximized>yes</reference_maximized>
+            <width units="%">0.7</width>
+            <height units="%">0.7</height>
+            <default_alpha units="%">0</default_alpha>
+          </mask>
+        </Pattern>
+        <Pattern type="Dots">
+          <dot units="mm">35.9125,39.1742</dot>
+          <dot units="mm">72.4144,40.1264</dot>
+          <dot units="mm">135.896,40.1264</dot>
+          <dot units="mm">83.5236,40.2851</dot>
+          <dot units="mm">111.297,40.2851</dot>
+          <dot units="mm">120.184,40.2851</dot>
+          <dot units="mm">127.643,40.2851</dot>
+          <dot units="mm">97.1722,40.7612</dot>
+          <dot units="mm">145.26,40.9199</dot>
+          <dot units="mm">41.1497,41.0786</dot>
+          <dot units="mm">62.5747,41.0786</dot>
+          <dot units="mm">168.113,41.2373</dot>
+          <dot units="mm">50.0371,41.396</dot>
+          <dot units="mm">159.225,41.396</dot>
+          <dot units="mm">183.348,41.5547</dot>
+          <dot units="mm">103.996,43.3005</dot>
+          <dot units="mm">120.026,45.681</dot>
+          <dot units="mm">101.933,46.9507</dot>
+          <dot units="mm">110.027,47.2681</dot>
+          <dot units="mm">38.5311,47.5855</dot>
+          <dot units="mm">48.4501,47.7442</dot>
+          <dot units="mm">149.386,47.7442</dot>
+          <dot units="mm">82.8888,47.9029</dot>
+          <dot units="mm">130.976,47.9029</dot>
+          <dot units="mm">138.277,48.0616</dot>
+          <dot units="mm">55.9092,48.2203</dot>
+          <dot units="mm">73.684,48.2203</dot>
+          <dot units="mm">91.935,48.2203</dot>
+          <dot units="mm">165.891,48.2203</dot>
+          <dot units="mm">183.983,48.379</dot>
+          <dot units="mm">65.9075,48.5377</dot>
+          <dot units="mm">189.538,48.5377</dot>
+          <dot units="mm">174.778,48.6964</dot>
+          <dot units="mm">156.527,50.4422</dot>
+          <dot units="mm">125.58,51.077</dot>
+          <dot units="mm">96.3787,51.7118</dot>
+          <dot units="mm">143.514,52.1879</dot>
+          <dot units="mm">91.1414,52.9814</dot>
+          <dot units="mm">48.6088,53.9336</dot>
+          <dot units="mm">78.2071,53.9336</dot>
+          <dot units="mm">64.1618,54.4098</dot>
+          <dot units="mm">137.166,54.4098</dot>
+          <dot units="mm">151.29,54.5685</dot>
+          <dot units="mm">55.1156,55.0446</dot>
+          <dot units="mm">39.7213,55.5207</dot>
+          <dot units="mm">186.046,55.5207</dot>
+          <dot units="mm">168.906,55.8381</dot>
+          <dot units="mm">69.2403,56.1555</dot>
+          <dot units="mm">177.635,56.1555</dot>
+          <dot units="mm">160.654,57.7425</dot>
+          <dot units="mm">82.254,57.9012</dot>
+          <dot units="mm">144.783,58.06</dot>
+          <dot units="mm">46.5456,59.8057</dot>
+          <dot units="mm">120.819,59.8057</dot>
+          <dot units="mm">105.425,59.9644</dot>
+          <dot units="mm">121.613,59.9644</dot>
+          <dot units="mm">152.242,60.2818</dot>
+          <dot units="mm">53.846,60.7579</dot>
+          <dot units="mm">125.104,60.7579</dot>
+          <dot units="mm">39.0865,61.0753</dot>
+          <dot units="mm">99.8702,61.3927</dot>
+          <dot units="mm">176.048,61.8688</dot>
+          <dot units="mm">63.8444,62.0276</dot>
+          <dot units="mm">71.4621,62.0276</dot>
+          <dot units="mm">129.548,62.1863</dot>
+          <dot units="mm">96.0613,62.8211</dot>
+          <dot units="mm">130.976,62.8211</dot>
+          <dot units="mm">188.903,63.1385</dot>
+          <dot units="mm">132.563,63.4559</dot>
+          <dot units="mm">167.954,63.4559</dot>
+          <dot units="mm">181.285,63.4559</dot>
+          <dot units="mm">94.3155,63.6146</dot>
+          <dot units="mm">132.881,63.6146</dot>
+          <dot units="mm">156.845,64.0907</dot>
+          <dot units="mm">44.0064,64.2494</dot>
+          <dot units="mm">91.3001,65.2016</dot>
+          <dot units="mm">35.4363,66.9474</dot>
+          <dot units="mm">50.2752,67.2648</dot>
+          <dot units="mm">56.8614,68.6931</dot>
+          <dot units="mm">85.8249,68.9312</dot>
+          <dot units="mm">141.133,68.8518</dot>
+          <dot units="mm">141.609,69.1692</dot>
+          <dot units="mm">65.9075,69.3279</dot>
+          <dot units="mm">85.0313,69.566</dot>
+          <dot units="mm">171.128,70.2802</dot>
+          <dot units="mm">181.603,70.5976</dot>
+          <dot units="mm">83.6824,70.7563</dot>
+          <dot units="mm">44.9586,70.915</dot>
+          <dot units="mm">160.812,70.915</dot>
+          <dot units="mm">189.379,70.915</dot>
+          <dot units="mm">83.2062,71.2324</dot>
+          <dot units="mm">82.4127,72.0259</dot>
+          <dot units="mm">144.625,72.0259</dot>
+          <dot units="mm">82.0953,72.3433</dot>
+          <dot units="mm">39.2452,72.8194</dot>
+          <dot units="mm">56.7027,73.4542</dot>
+          <dot units="mm">80.667,74.0891</dot>
+          <dot units="mm">146.688,74.2478</dot>
+          <dot units="mm">45.276,74.5652</dot>
+          <dot units="mm">64.3205,75.6761</dot>
+          <dot units="mm">79.0799,75.9935</dot>
+          <dot units="mm">148.592,76.787</dot>
+          <dot units="mm">51.6241,78.6915</dot>
+          <dot units="mm">77.3342,78.6915</dot>
+          <dot units="mm">171.128,79.0089</dot>
+          <dot units="mm">188.744,79.1676</dot>
+          <dot units="mm">166.05,79.3263</dot>
+          <dot units="mm">150.338,79.485</dot>
+          <dot units="mm">181.285,79.485</dot>
+          <dot units="mm">36.3886,80.2785</dot>
+          <dot units="mm">41.9432,80.4372</dot>
+          <dot units="mm">76.0646,80.9133</dot>
+          <dot units="mm">151.132,80.9133</dot>
+          <dot units="mm">75.5884,81.8656</dot>
+          <dot units="mm">151.608,82.0243</dot>
+          <dot units="mm">59.5593,82.5004</dot>
+          <dot units="mm">50.1958,83.6113</dot>
+          <dot units="mm">167.637,86.3093</dot>
+          <dot units="mm">37.6582,86.7854</dot>
+          <dot units="mm">46.863,87.4202</dot>
+          <dot units="mm">175.731,87.5789</dot>
+          <dot units="mm">184.459,87.8963</dot>
+          <dot units="mm">56.0679,88.2137</dot>
+          <dot units="mm">42.2606,89.0072</dot>
+          <dot units="mm">190.966,89.8008</dot>
+          <dot units="mm">40.3562,92.9748</dot>
+          <dot units="mm">48.7675,93.9271</dot>
+          <dot units="mm">169.224,94.5619</dot>
+          <dot units="mm">36.3886,96.625</dot>
+          <dot units="mm">180.65,96.625</dot>
+          <dot units="mm">57.9723,97.8947</dot>
+          <dot units="mm">187.951,98.0534</dot>
+          <dot units="mm">51.148,100.593</dot>
+          <dot units="mm">43.0541,101.069</dot>
+          <dot units="mm">169.383,101.862</dot>
+          <dot units="mm">179.698,103.925</dot>
+          <dot units="mm">186.84,104.402</dot>
+          <dot units="mm">190.649,104.719</dot>
+          <dot units="mm">37.3408,105.195</dot>
+          <dot units="mm">46.7043,105.989</dot>
+          <dot units="mm">56.2266,106.306</dot>
+          <dot units="mm">171.604,106.782</dot>
+          <dot units="mm">178.587,108.528</dot>
+          <dot units="mm">164.939,109.004</dot>
+          <dot units="mm">42.4193,109.639</dot>
+          <dot units="mm">49.561,110.274</dot>
+          <dot units="mm">172.239,110.908</dot>
+          <dot units="mm">37.1821,111.861</dot>
+          <dot units="mm">184.459,113.13</dot>
+          <dot units="mm">44.1651,114.717</dot>
+          <dot units="mm">165.891,115.193</dot>
+          <dot units="mm">189.221,115.193</dot>
+          <dot units="mm">49.8784,116.78</dot>
+          <dot units="mm">36.8647,117.733</dot>
+          <dot units="mm">177.635,117.891</dot>
+          <dot units="mm">170.017,119.955</dot>
+          <dot units="mm">41.6258,120.431</dot>
+          <dot units="mm">186.364,120.748</dot>
+          <dot units="mm">55.1156,120.907</dot>
+          <dot units="mm">190.173,123.922</dot>
+          <dot units="mm">47.4978,124.081</dot>
+          <dot units="mm">35.7537,126.144</dot>
+          <dot units="mm">166.208,126.144</dot>
+          <dot units="mm">184.459,126.937</dot>
+          <dot units="mm">173.35,127.414</dot>
+          <dot units="mm">52.259,127.572</dot>
+          <dot units="mm">40.6736,127.89</dot>
+          <dot units="mm">47.3391,127.89</dot>
+          <dot units="mm">188.11,128.366</dot>
+          <dot units="mm">178.429,129.318</dot>
+          <height units="%">1</height>
+          <dot_radius units="mm">1</dot_radius>
+          <vibration>
+            <enable>no</enable>
+            <frequency units="Hz">50</frequency>
+            <amplitude>1</amplitude>
+            <blend_mode>high</blend_mode>
+          </vibration>
+          <ridge>
+            <width units="mm">2</width>
+            <edge_width units="mm">0.2</edge_width>
+            <texture>
+              <enable>no</enable>
+              <amplitude units="%">0</amplitude>
+              <nb_cycles>3</nb_cycles>
+            </texture>
+          </ridge>
+          <operation type="add"/>
+        </Pattern>
+      </Pattern>
+    </Generator>
+</laterographics_xml>

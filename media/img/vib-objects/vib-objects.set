@@ -1,0 +1,14 @@
+<cards name="vib-objects">
+	<card file="umbrella.gen"/>
+	<card file="car.gen"/>
+	<card file="house.gen"/>
+	<card file="phone.gen"/>
+	<card file="necklace.gen"/>
+	<card file="leaf.gen"/>
+	<card file="cloud.gen"/>
+	<card file="cup.gen"/>
+	<card file="sun.gen"/>
+	<card file="balloons.gen"/>
+	<card file="hand.gen"/>
+	<card file="fork.gen"/>
+</cards>

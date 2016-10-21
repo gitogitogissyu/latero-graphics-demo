@@ -1,0 +1,343 @@
+<?xml version="1.0"?>
+<stressr_xml type="Generator">
+<Generator type="Canvas">
+      <Pattern type="Group">
+        <operation>max</operation>
+	<Pattern type="Audio">
+		<sound>
+			<audiofile>200000.wav</audiofile>
+			<mask>
+				<imgfile type="gray">200000.png</imgfile>
+				<position>centered</position>
+				<lock_aspect_ratio>yes</lock_aspect_ratio>
+				<reference_maximized>yes</reference_maximized>
+				<width units="%">0.9</width>
+				<height units="%">0.9</height>
+				<default_alpha units="%">0</default_alpha>
+			</mask>
+		</sound>
+		<sound>
+			<audiofile>Esclaves.wav</audiofile>
+			<mask>
+				<imgfile type="gray">Esclaves.png</imgfile>
+				<position>centered</position>
+				<lock_aspect_ratio>yes</lock_aspect_ratio>
+				<reference_maximized>yes</reference_maximized>
+				<width units="%">0.9</width>
+				<height units="%">0.9</height>
+				<default_alpha units="%">0</default_alpha>
+			</mask>
+		</sound>
+		<sound>
+			<audiofile>180000.wav</audiofile>
+			<mask>
+				<imgfile type="gray">180000.png</imgfile>
+				<position>centered</position>
+				<lock_aspect_ratio>yes</lock_aspect_ratio>
+				<reference_maximized>yes</reference_maximized>
+				<width units="%">0.9</width>
+				<height units="%">0.9</height>
+				<default_alpha units="%">0</default_alpha>
+			</mask>
+		</sound>
+		<sound>
+			<audiofile>160000.wav</audiofile>
+			<mask>
+				<imgfile type="gray">160000.png</imgfile>
+				<position>centered</position>
+				<lock_aspect_ratio>yes</lock_aspect_ratio>
+				<reference_maximized>yes</reference_maximized>
+				<width units="%">0.9</width>
+				<height units="%">0.9</height>
+				<default_alpha units="%">0</default_alpha>
+			</mask>
+		</sound>
+		<sound>
+			<audiofile>140000.wav</audiofile>
+			<mask>
+				<imgfile type="gray">140000.png</imgfile>
+				<position>centered</position>
+				<lock_aspect_ratio>yes</lock_aspect_ratio>
+				<reference_maximized>yes</reference_maximized>
+				<width units="%">0.9</width>
+				<height units="%">0.9</height>
+				<default_alpha units="%">0</default_alpha>
+			</mask>
+		</sound>
+		<sound>
+			<audiofile>120000.wav</audiofile>
+			<mask>
+				<imgfile type="gray">120000.png</imgfile>
+				<position>centered</position>
+				<lock_aspect_ratio>yes</lock_aspect_ratio>
+				<reference_maximized>yes</reference_maximized>
+				<width units="%">0.9</width>
+				<height units="%">0.9</height>
+				<default_alpha units="%">0</default_alpha>
+			</mask>
+		</sound>
+		<sound>
+			<audiofile>100000.wav</audiofile>
+			<mask>
+				<imgfile type="gray">100000.png</imgfile>
+				<position>centered</position>
+				<lock_aspect_ratio>yes</lock_aspect_ratio>
+				<reference_maximized>yes</reference_maximized>
+				<width units="%">0.9</width>
+				<height units="%">0.9</height>
+				<default_alpha units="%">0</default_alpha>
+			</mask>
+		</sound>
+		<sound>
+			<audiofile>80000.wav</audiofile>
+			<mask>
+				<imgfile type="gray">80000.png</imgfile>
+				<position>centered</position>
+				<lock_aspect_ratio>yes</lock_aspect_ratio>
+				<reference_maximized>yes</reference_maximized>
+				<width units="%">0.9</width>
+				<height units="%">0.9</height>
+				<default_alpha units="%">0</default_alpha>
+			</mask>
+		</sound>
+		<sound>
+			<audiofile>Meteques.wav</audiofile>
+			<mask>
+				<imgfile type="gray">Meteques.png</imgfile>
+				<position>centered</position>
+				<lock_aspect_ratio>yes</lock_aspect_ratio>
+				<reference_maximized>yes</reference_maximized>
+				<width units="%">0.9</width>
+				<height units="%">0.9</height>
+				<default_alpha units="%">0</default_alpha>
+			</mask>
+		</sound>
+		<sound>
+			<audiofile>60000.wav</audiofile>
+			<mask>
+				<imgfile type="gray">60000.png</imgfile>
+				<position>centered</position>
+				<lock_aspect_ratio>yes</lock_aspect_ratio>
+				<reference_maximized>yes</reference_maximized>
+				<width units="%">0.9</width>
+				<height units="%">0.9</height>
+				<default_alpha units="%">0</default_alpha>
+			</mask>
+		</sound>
+		<sound>
+			<audiofile>40000.wav</audiofile>
+			<mask>
+				<imgfile type="gray">40000.png</imgfile>
+				<position>centered</position>
+				<lock_aspect_ratio>yes</lock_aspect_ratio>
+				<reference_maximized>yes</reference_maximized>
+				<width units="%">0.9</width>
+				<height units="%">0.9</height>
+				<default_alpha units="%">0</default_alpha>
+			</mask>
+		</sound>
+		<sound>
+			<audiofile>Citoyens.wav</audiofile>
+			<mask>
+				<imgfile type="gray">Citoyens.png</imgfile>
+				<position>centered</position>
+				<lock_aspect_ratio>yes</lock_aspect_ratio>
+				<reference_maximized>yes</reference_maximized>
+				<width units="%">0.9</width>
+				<height units="%">0.9</height>
+				<default_alpha units="%">0</default_alpha>
+			</mask>
+		</sound>
+		<sound>
+			<audiofile>20000.wav</audiofile>
+			<mask>
+				<imgfile type="gray">20000.png</imgfile>
+				<position>centered</position>
+				<lock_aspect_ratio>yes</lock_aspect_ratio>
+				<reference_maximized>yes</reference_maximized>
+				<width units="%">0.9</width>
+				<height units="%">0.9</height>
+				<default_alpha units="%">0</default_alpha>
+			</mask>
+		</sound>
+	</Pattern>
+	
+        <Pattern type="Image">
+          <Pattern type="Texture" subtype="Vibration">
+            <freq units="Hz">50</freq>
+            <amplitude>1</amplitude>
+          </Pattern>
+          <mask>
+            <imgfile type="gray">Bordure.png</imgfile>
+            <blur>yes</blur>
+            <position>centered</position>
+            <lock_aspect_ratio>yes</lock_aspect_ratio>
+            <reference_maximized>yes</reference_maximized>
+            <width units="%">0.9</width>
+            <height units="%">0.9</height>
+            <default_alpha units="%">0</default_alpha>
+          </mask>
+        </Pattern>
+        <Pattern type="Image">
+          <Pattern type="Texture" subtype="Vibration">
+            <freq units="Hz">50</freq>
+            <amplitude>1</amplitude>
+          </Pattern>
+          <mask>
+            <imgfile type="gray">200000.png</imgfile>
+            <blur>yes</blur>
+            <position>centered</position>
+            <lock_aspect_ratio>yes</lock_aspect_ratio>
+            <reference_maximized>yes</reference_maximized>
+            <width units="%">0.9</width>
+            <height units="%">0.9</height>
+            <default_alpha units="%">0</default_alpha>
+          </mask>
+        </Pattern>
+        <Pattern type="Image">
+          <Pattern type="Texture" subtype="Vibration">
+            <freq units="Hz">50</freq>
+            <amplitude>1</amplitude>
+          </Pattern>
+          <mask>
+            <imgfile type="gray">180000.png</imgfile>
+            <blur>yes</blur>
+            <position>centered</position>
+            <lock_aspect_ratio>yes</lock_aspect_ratio>
+            <reference_maximized>yes</reference_maximized>
+            <width units="%">0.9</width>
+            <height units="%">0.9</height>
+            <default_alpha units="%">0</default_alpha>
+          </mask>
+        </Pattern>
+        <Pattern type="Image">
+          <Pattern type="Texture" subtype="Vibration">
+            <freq units="Hz">50</freq>
+            <amplitude>1</amplitude>
+          </Pattern>
+          <mask>
+            <imgfile type="gray">160000.png</imgfile>
+            <blur>yes</blur>
+            <position>centered</position>
+            <lock_aspect_ratio>yes</lock_aspect_ratio>
+            <reference_maximized>yes</reference_maximized>
+            <width units="%">0.9</width>
+            <height units="%">0.9</height>
+            <default_alpha units="%">0</default_alpha>
+          </mask>
+        </Pattern>
+        <Pattern type="Image">
+          <Pattern type="Texture" subtype="Vibration">
+            <freq units="Hz">50</freq>
+            <amplitude>1</amplitude>
+          </Pattern>
+          <mask>
+            <imgfile type="gray">140000.png</imgfile>
+            <blur>yes</blur>
+            <position>centered</position>
+            <lock_aspect_ratio>yes</lock_aspect_ratio>
+            <reference_maximized>yes</reference_maximized>
+            <width units="%">0.9</width>
+            <height units="%">0.9</height>
+            <default_alpha units="%">0</default_alpha>
+          </mask>
+        </Pattern>
+        <Pattern type="Image">
+          <Pattern type="Texture" subtype="Vibration">
+            <freq units="Hz">50</freq>
+            <amplitude>1</amplitude>
+          </Pattern>
+          <mask>
+            <imgfile type="gray">120000.png</imgfile>
+            <blur>yes</blur>
+            <position>centered</position>
+            <lock_aspect_ratio>yes</lock_aspect_ratio>
+            <reference_maximized>yes</reference_maximized>
+            <width units="%">0.9</width>
+            <height units="%">0.9</height>
+            <default_alpha units="%">0</default_alpha>
+          </mask>
+        </Pattern>
+        <Pattern type="Image">
+          <Pattern type="Texture" subtype="Vibration">
+            <freq units="Hz">50</freq>
+            <amplitude>1</amplitude>
+          </Pattern>
+          <mask>
+            <imgfile type="gray">100000.png</imgfile>
+            <blur>yes</blur>
+            <position>centered</position>
+            <lock_aspect_ratio>yes</lock_aspect_ratio>
+            <reference_maximized>yes</reference_maximized>
+            <width units="%">0.9</width>
+            <height units="%">0.9</height>
+            <default_alpha units="%">0</default_alpha>
+          </mask>
+        </Pattern>
+        <Pattern type="Image">
+          <Pattern type="Texture" subtype="Vibration">
+            <freq units="Hz">50</freq>
+            <amplitude>1</amplitude>
+          </Pattern>
+          <mask>
+            <imgfile type="gray">80000.png</imgfile>
+            <blur>yes</blur>
+            <position>centered</position>
+            <lock_aspect_ratio>yes</lock_aspect_ratio>
+            <reference_maximized>yes</reference_maximized>
+            <width units="%">0.9</width>
+            <height units="%">0.9</height>
+            <default_alpha units="%">0</default_alpha>
+          </mask>
+        </Pattern>
+        <Pattern type="Image">
+          <Pattern type="Texture" subtype="Vibration">
+            <freq units="Hz">50</freq>
+            <amplitude>1</amplitude>
+          </Pattern>
+          <mask>
+            <imgfile type="gray">60000.png</imgfile>
+            <blur>yes</blur>
+            <position>centered</position>
+            <lock_aspect_ratio>yes</lock_aspect_ratio>
+            <reference_maximized>yes</reference_maximized>
+            <width units="%">0.9</width>
+            <height units="%">0.9</height>
+            <default_alpha units="%">0</default_alpha>
+          </mask>
+        </Pattern>
+        <Pattern type="Image">
+          <Pattern type="Texture" subtype="Vibration">
+            <freq units="Hz">50</freq>
+            <amplitude>1</amplitude>
+          </Pattern>
+          <mask>
+            <imgfile type="gray">40000.png</imgfile>
+            <blur>yes</blur>
+            <position>centered</position>
+            <lock_aspect_ratio>yes</lock_aspect_ratio>
+            <reference_maximized>yes</reference_maximized>
+            <width units="%">0.9</width>
+            <height units="%">0.9</height>
+            <default_alpha units="%">0</default_alpha>
+          </mask>
+        </Pattern>
+        <Pattern type="Image">
+          <Pattern type="Texture" subtype="Vibration">
+            <freq units="Hz">50</freq>
+            <amplitude>1</amplitude>
+          </Pattern>
+          <mask>
+            <imgfile type="gray">20000.png</imgfile>
+            <blur>yes</blur>
+            <position>centered</position>
+            <lock_aspect_ratio>yes</lock_aspect_ratio>
+            <reference_maximized>yes</reference_maximized>
+            <width units="%">0.9</width>
+            <height units="%">0.9</height>
+            <default_alpha units="%">0</default_alpha>
+          </mask>
+        </Pattern>
+      </Pattern>
+    </Generator>
+</stressr_xml>

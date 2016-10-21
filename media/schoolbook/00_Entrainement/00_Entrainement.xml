@@ -1,0 +1,59 @@
+<Generator>
+	<ComboGen>
+		<VibroGen>
+			<mask>
+				<imgfile>Bordure.png</imgfile>
+				<textfile>Bordure.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+			<freq units="hz">50</freq>
+			<alternate>yes</alternate>
+		</VibroGen>
+		<NoneGen>
+			<mask>
+				<imgfile>Vide.png</imgfile>
+				<audiofile>Vide.wav</audiofile>
+				<textfile>Vide.txt</textfile>
+				<scale>0.9</scale>
+			</mask>
+		</NoneGen>
+		<VibroGen>
+			<mask>
+				<imgfile>Vibration.png</imgfile>
+				<audiofile>Vibration.wav</audiofile>
+				<textfile>Vibration.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+			<freq units="hz">50</freq>
+			<alternate>yes</alternate>
+		</VibroGen>
+		<WaveGen>
+			<pitch units="mm">3</pitch>
+			<angle units="degree">0</angle>
+			<mask>
+				<imgfile>Ondulation_Horizontale.png</imgfile>
+				<audiofile>Ondulation_Horizontale.wav</audiofile>
+				<textfile>Ondulation_Horizontale.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<WaveGen>
+			<pitch units="mm">4</pitch>
+			<angle units="degree">90</angle>
+			<mask>
+				<imgfile>Ondulation_Verticale.png</imgfile>
+				<audiofile>Ondulation_Verticale.wav</audiofile>
+				<textfile>Ondulation_Verticale.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+	</ComboGen>
+</Generator>

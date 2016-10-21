@@ -1,0 +1,14 @@
+<cards name="combo-objects">
+	<card file="leaf.gen"/>
+	<card file="car.gen"/>
+	<card file="crown.gen"/>
+	<card file="umbrella.gen"/>
+	<card file="sun.gen"/>
+	<card file="cup.gen"/>
+	<card file="boat.gen"/>
+	<card file="candle.gen"/>
+	<card file="shirt.gen"/>
+	<card file="flashlight.gen"/>
+	<card file="necklace.gen"/>
+	<card file="insect.gen"/>
+</cards>

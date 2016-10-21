@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<laterographics_xml type="Generator">
+    <Generator type="Canvas">
+      <Pattern type="Group">
+        <operation type="max"/>
+        <Pattern type="Image">
+          <Pattern type="Texture" subtype="Vibration">
+            <freq units="Hz">50</freq>
+            <amplitude>1</amplitude>
+          </Pattern>
+          <mask>
+            <imgfile type="gray">boat1.png</imgfile>
+            <blur>yes</blur>
+            <position>centered</position>
+            <lock_aspect_ratio>yes</lock_aspect_ratio>
+            <reference_maximized>yes</reference_maximized>
+            <width units="%">0.7</width>
+            <height units="%">0.7</height>
+            <default_alpha units="%">0</default_alpha>
+          </mask>
+        </Pattern>
+        <Pattern type="Image">
+          <Pattern type="Texture" subtype="LinearGrating">
+            <angle units="degree">0</angle>
+            <seed units="mm">0,0</seed>
+            <Grating>
+              <enable>yes</enable>
+              <ridge_size units="mm">2.4</ridge_size>
+              <gap_size units="mm">0</gap_size>
+            </Grating>
+            <amplitude>1</amplitude>
+          </Pattern>
+          <mask>
+            <imgfile type="gray">boat2.png</imgfile>
+            <blur>yes</blur>
+            <position>centered</position>
+            <lock_aspect_ratio>yes</lock_aspect_ratio>
+            <reference_maximized>yes</reference_maximized>
+            <width units="%">0.7</width>
+            <height units="%">0.7</height>
+            <default_alpha units="%">0</default_alpha>
+          </mask>
+        </Pattern>
+      </Pattern>
+    </Generator>
+</laterographics_xml>

@@ -1,0 +1,87 @@
+<Generator>
+	<ComboGen>
+		<VibroGen>
+			<mask>
+				<imgfile>Cotes.png</imgfile>
+				<textfile>Cotes.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+			<freq units="hz">50</freq>
+			<alternate>yes</alternate>
+		</VibroGen>
+		<WaveGen>
+			<pitch units="mm">3</pitch>
+			<angle units="degree">90</angle>
+			<mask>
+				<imgfile>Chine.png</imgfile>
+				<audiofile>Chine.wav</audiofile>
+				<textfile>Chine.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<WaveGen>
+			<pitch units="mm">3</pitch>
+			<angle units="degree">90</angle>
+			<mask>
+				<imgfile>Mesopotamie.png</imgfile>
+				<audiofile>Mesopotamie.wav</audiofile>
+				<textfile>Mesopotamie.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<WaveGen>
+			<pitch units="mm">3</pitch>
+			<angle units="degree">90</angle>
+			<mask>
+				<imgfile>Inde.png</imgfile>
+				<audiofile>Inde.wav</audiofile>
+				<textfile>Inde.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<WaveGen>
+			<pitch units="mm">3</pitch>
+			<angle units="degree">90</angle>
+			<mask>
+				<imgfile>Egypte.png</imgfile>
+				<audiofile>Egypte.wav</audiofile>
+				<textfile>Egypte.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<WaveGen>
+			<pitch units="mm">10</pitch>
+			<angle units="degree">90</angle>
+			<mask>
+				<imgfile>Mexique.png</imgfile>
+				<audiofile>Mexique.wav</audiofile>
+				<textfile>Mexique.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<WaveGen>
+			<pitch units="mm">10</pitch>
+			<angle units="degree">90</angle>
+			<mask>
+				<imgfile>Oceans.png</imgfile>
+				<audiofile>Oceans.wav</audiofile>
+				<textfile>Oceans.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>8</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+	</ComboGen>
+</Generator>

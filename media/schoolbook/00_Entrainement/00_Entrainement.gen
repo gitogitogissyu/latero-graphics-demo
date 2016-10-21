@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<laterographics_xml type="Generator">
+<Generator type="Canvas">
+  <Pattern type="Group">
+  <operation>max</operation>
+    <Pattern type="Audio">
+      <sound>
+        <audiofile>Vide.wav</audiofile>
+        <mask>
+          <imgfile type="gray">Vide.png</imgfile>
+          <position>centered</position>
+          <lock_aspect_ratio>yes</lock_aspect_ratio>
+          <reference_maximized>yes</reference_maximized>
+          <width units="%">0.9</width>
+          <height units="%">0.9</height>
+          <default_alpha units="%">0</default_alpha>
+        </mask>
+      </sound>
+      <sound>
+        <audiofile>Vibration.wav</audiofile>
+        <mask>
+          <imgfile type="gray">Vibration.png</imgfile>
+          <position>centered</position>
+          <lock_aspect_ratio>yes</lock_aspect_ratio>
+          <reference_maximized>yes</reference_maximized>
+          <width units="%">0.9</width>
+          <height units="%">0.9</height>
+          <default_alpha units="%">0</default_alpha>
+        </mask>
+      </sound>
+      <sound>
+        <audiofile>Ondulation_Horizontale.wav</audiofile>
+        <mask>
+          <imgfile type="gray">Ondulation_Horizontale.png</imgfile>
+          <position>centered</position>
+          <lock_aspect_ratio>yes</lock_aspect_ratio>
+          <reference_maximized>yes</reference_maximized>
+          <width units="%">0.9</width>
+          <height units="%">0.9</height>
+          <default_alpha units="%">0</default_alpha>
+        </mask>
+      </sound>
+      <sound>
+        <audiofile>Ondulation_Verticale.wav</audiofile>
+        <mask>
+          <imgfile type="gray">Ondulation_Verticale.png</imgfile>
+          <position>centered</position>
+          <lock_aspect_ratio>yes</lock_aspect_ratio>
+          <reference_maximized>yes</reference_maximized>
+          <width units="%">0.9</width>
+          <height units="%">0.9</height>
+          <default_alpha units="%">0</default_alpha>
+        </mask>
+      </sound>
+    </Pattern>
+    <Pattern type="Image">
+      <Pattern type="Texture" subtype="Vibration">
+        <freq units="Hz">50</freq>
+        <amplitude>1</amplitude>
+      </Pattern>
+      <mask>
+        <imgfile type="gray">Bordure.png</imgfile>
+        <blur>yes</blur>
+        <position>centered</position>
+        <lock_aspect_ratio>yes</lock_aspect_ratio>
+        <reference_maximized>yes</reference_maximized>
+        <width units="%">0.9</width>
+        <height units="%">0.9</height>
+        <default_alpha units="%">0</default_alpha>
+      </mask>
+    </Pattern>
+    <Pattern type="Image">
+      <Pattern type="Texture" subtype="Vibration">
+        <freq units="Hz">50</freq>
+        <amplitude>1</amplitude>
+      </Pattern>
+      <mask>
+        <imgfile type="gray">Vibration.png</imgfile>
+        <blur>yes</blur>
+        <position>centered</position>
+        <lock_aspect_ratio>yes</lock_aspect_ratio>
+        <reference_maximized>yes</reference_maximized>
+        <width units="%">0.9</width>
+        <height units="%">0.9</height>
+        <default_alpha units="%">0</default_alpha>
+      </mask>
+    </Pattern>
+    <Pattern type="Image">
+      <Pattern type="Texture" subtype="LinearGrating">
+        <angle units="degree">0</angle>
+        <seed units="mm">0,0</seed>
+        <Grating>
+          <enable>yes</enable>
+          <ridge_size units="mm">3</ridge_size>
+          <gap_size units="mm">0</gap_size>
+        </Grating>
+        <amplitude>1</amplitude>
+      </Pattern>
+      <mask>
+        <imgfile type="gray">Ondulation_Horizontale.png</imgfile>
+        <blur>yes</blur>
+        <position>centered</position>
+        <lock_aspect_ratio>yes</lock_aspect_ratio>
+        <reference_maximized>yes</reference_maximized>
+        <width units="%">0.9</width>
+        <height units="%">0.9</height>
+        <default_alpha units="%">0</default_alpha>
+      </mask>
+    </Pattern>
+    <Pattern type="Image">
+          <Pattern type="Texture" subtype="LinearGrating">
+            <angle units="degree">0</angle>
+            <seed units="mm">0,0</seed>
+            <Grating>
+              <enable>yes</enable>
+              <ridge_size units="mm">4</ridge_size>
+              <gap_size units="mm">0</gap_size>
+            </Grating>
+            <amplitude>1</amplitude>
+          </Pattern>
+          <mask>
+            <imgfile type="gray">Ondulation_Verticale.png</imgfile>
+            <blur>yes</blur>
+            <position>centered</position>
+            <lock_aspect_ratio>yes</lock_aspect_ratio>
+            <reference_maximized>yes</reference_maximized>
+            <width units="%">0.9</width>
+            <height units="%">0.9</height>
+            <default_alpha units="%">0</default_alpha>
+          </mask>
+        </Pattern>
+      </Pattern>
+    </Generator>
+</laterographics_xml>

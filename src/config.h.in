@@ -1,0 +1,26 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#include <string>
+
+//#define DISABLE_SCHOOLBOOK_DEMO
+//#define DISABLE_GRAPHICS_DEMO
+//#define DISABLE_ICON_DEMO
+//#define DISABLE_VECTOR_DEMO
+//#define DISABLE_TEXTURE_DEMO
+//#define DISABLE_BRAILLE_DEMO
+
+// for windows...
+//#ifndef M_PI
+//#define M_PI 3.14159265358979323846
+//#endif
+
+//#ifdef _WIN32
+//typedef unsigned int uint;
+//#define round(n) floor(n+.5)
+//#endif
+
+// location of images files and other resources
+const std::string media_dir = "@CMAKE_SOURCE_DIR@/media";
+
+#endif

@@ -1,0 +1,51 @@
+<Generator>
+	<ComboGen>
+		<VibroGen>
+			<mask>
+				<imgfile>Bordure.png</imgfile>
+				<textfile>Bordure.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+			<freq units="hz">50</freq>
+			<alternate>yes</alternate>
+		</VibroGen>
+		<WaveGen>
+			<pitch units="mm">2</pitch>
+			<angle units="degree">90</angle>
+			<mask>
+				<imgfile>Carrosserie.png</imgfile>
+				<audiofile>Carrosserie.wav</audiofile>
+				<textfile>Carrosserie.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<WaveGen>
+			<pitch units="mm">2</pitch>
+			<angle units="degree">45</angle>
+			<mask>
+				<imgfile>Fenetres.png</imgfile>
+				<audiofile>Fenetres.wav</audiofile>
+				<textfile>Fenetres.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<WaveGen>
+			<pitch units="mm">2</pitch>
+			<angle units="degree">135</angle>
+			<mask>
+				<imgfile>Roues.png</imgfile>
+				<audiofile>Roues.wav</audiofile>
+				<textfile>Roues.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+	</ComboGen>
+</Generator>

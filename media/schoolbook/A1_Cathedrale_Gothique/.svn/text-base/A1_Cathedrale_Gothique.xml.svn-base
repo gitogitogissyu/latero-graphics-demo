@@ -1,0 +1,111 @@
+<Generator>
+	<ComboGen>
+		<VibroGen>
+			<mask>
+				<imgfile>Bordure.png</imgfile>
+				<textfile>Bordure.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>240</grayScale>
+				<scale>0.9</scale>
+			</mask>
+			<freq units="hz">50</freq>
+			<alternate>yes</alternate>
+		</VibroGen>
+		<WaveGen>
+			<pitch units="mm">2</pitch>
+			<angle units="degree">45</angle>
+			<mask>
+				<imgfile>Deambule_Nord.png</imgfile>
+				<audiofile>Deambule_Nord.wav</audiofile>
+				<textfile>Deambule_Nord.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<WaveGen>
+			<pitch units="mm">4</pitch>
+			<angle units="degree">0</angle>
+			<mask>
+				<imgfile>Parvis.png</imgfile>
+				<audiofile>Parvis.wav</audiofile>
+				<textfile>Parvis.txt</textfile>
+				<blur>no</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<WaveGen>
+			<pitch units="mm">2</pitch>
+			<angle units="degree">90</angle>
+			<mask>
+				<imgfile>BasCote_Nord.png</imgfile>
+				<audiofile>BasCote_Nord.wav</audiofile>
+				<textfile>BasCote_Nord.txt</textfile>
+				<blur>no</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<WaveGen>
+			<pitch units="mm">4</pitch>
+			<angle units="degree">0</angle>
+			<mask>
+				<imgfile>Coeur.png</imgfile>
+				<audiofile>Coeur.wav</audiofile>
+				<textfile>Coeur.txt</textfile>
+				<blur>no</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<WaveGen>
+			<pitch units="mm">2</pitch>
+			<angle units="degree">45</angle>
+			<mask>
+				<imgfile>Deambule_Est.png</imgfile>
+				<audiofile>Deambule_Est.wav</audiofile>
+				<textfile>Deambule_Est.txt</textfile>
+				<blur>no</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<WaveGen>
+			<pitch units="mm">4</pitch>
+			<angle units="degree">135</angle>
+			<mask>
+				<imgfile>Grand Nef.png</imgfile>
+				<audiofile>Grand Nef.wav</audiofile>
+				<textfile>Grand Nef.txt</textfile>
+				<blur>no</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<WaveGen>
+			<pitch units="mm">2</pitch>
+			<angle units="degree">90</angle>
+			<mask>
+				<imgfile>BasCote_Sud.png</imgfile>
+				<audiofile>BasCote_Sud.wav</audiofile>
+				<textfile>BasCote_Sud.txt</textfile>
+				<blur>no</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<WaveGen>
+			<pitch units="mm">2</pitch>
+			<angle units="degree">45</angle>
+			<mask>
+				<imgfile>Deambule_Sud.png</imgfile>
+				<audiofile>Deambule_Sud.wav</audiofile>
+				<textfile>Deambule_Sud.txt</textfile>
+				<blur>no</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+	</ComboGen>
+</Generator>

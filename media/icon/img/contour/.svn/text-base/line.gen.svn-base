@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<stressr_xml type="Generator">
+  <Generator type="Canvas">
+    <Pattern type="Group">
+      <operation>max</operation>
+      <Pattern type="Line">
+        <start_point units="mm">10,10</start_point>
+        <end_point units="mm">80,10</end_point>
+        <stroke>
+          <width units="mm">15</width>
+          <intensity units="%">1</intensity>
+          <ridge>
+            <width units="mm">15</width>
+            <edge_width units="mm">1</edge_width>
+            <texture>
+              <enable>no</enable>
+              <amplitude units="%">0</amplitude>
+              <nb_cycles>3</nb_cycles>
+            </texture>
+          </ridge>
+          <fill>
+            <Grating>
+              <enable>yes</enable>
+              <ridge_size units="mm">10</ridge_size>
+              <gap_size units="mm">0</gap_size>
+            </Grating>
+            <vibration>
+              <enable>no</enable>
+              <frequency units="Hz">50</frequency>
+              <amplitude>1</amplitude>
+              <blend_mode>high</blend_mode>
+            </vibration>
+            <gutter>no</gutter>
+          </fill>
+          <motion>
+            <cue>none</cue>
+            <velocity units="mm/s">50</velocity>
+            <superposed_ratio units="%">0.2</superposed_ratio>
+            <blend_value units="%">0.5</blend_value>
+            <min_width units="mm">10</min_width>
+            <Grating>
+              <enable>yes</enable>
+              <ridge_size units="mm">2</ridge_size>
+              <gap_size units="mm">30</gap_size>
+            </Grating>
+            <vibration>
+              <enable>no</enable>
+              <frequency units="Hz">50</frequency>
+              <amplitude>1</amplitude>
+              <blend_mode>high</blend_mode>
+            </vibration>
+          </motion>
+          <dots>
+            <enable>no</enable>
+            <height units="%">1</height>
+            <vibration>
+              <enable>no</enable>
+              <frequency units="Hz">50</frequency>
+              <amplitude>1</amplitude>
+              <blend_mode>high</blend_mode>
+            </vibration>
+            <ridge>
+              <width units="mm">15</width>
+              <edge_width units="mm">1</edge_width>
+              <texture>
+                <enable>no</enable>
+                <amplitude units="%">0</amplitude>
+                <nb_cycles>3</nb_cycles>
+              </texture>
+            </ridge>
+            <min_spacing units="mm">1</min_spacing>
+          </dots>
+        </stroke>
+      </Pattern>
+    </Pattern>
+  </Generator>
+</stressr_xml>

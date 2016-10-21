@@ -1,0 +1,4 @@
+<CardCollection name="first_col">
+	<CardSet file="vib-objects/vib-objects.set"/>
+	<CardSet file="combo-objects/combo-objects.set"/>
+</CardCollection>

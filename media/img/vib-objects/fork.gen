@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<laterographics_xml type="Generator">
+  <Generator type="Canvas">
+    <Pattern type="Group">
+      <operation>max</operation>
+      <Pattern type="Image">
+        <Pattern type="Texture" subtype="Vibration">
+          <freq units="Hz">50</freq>
+          <amplitude>1</amplitude>
+        </Pattern>
+        <mask>
+          <imgfile type="gray">fork.png</imgfile>
+          <blur>yes</blur>
+          <position>centered</position>
+          <lock_aspect_ratio>yes</lock_aspect_ratio>
+          <reference_maximized>yes</reference_maximized>
+          <width units="%">0.9</width>
+          <height units="%">0.9</height>
+          <default_alpha units="%">0</default_alpha>
+        </mask>
+      </Pattern>
+    </Pattern>
+  </Generator>
+</laterographics_xml>

@@ -1,0 +1,87 @@
+<Generator>
+	<ComboGen>
+		<VibroGen>
+			<mask>
+				<imgfile>Bordure.png</imgfile>
+				<textfile>Bordure.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+			<freq units="hz">50</freq>
+			<alternate>yes</alternate>
+		</VibroGen>
+		<WaveGen>
+			<pitch units="mm">3</pitch>
+			<angle units="degree">0</angle>
+			<mask>
+				<imgfile>Ouest.png</imgfile>
+				<audiofile>Ouest.wav</audiofile>
+				<textfile>Ouest.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<WaveGen>
+			<pitch units="mm">4</pitch>
+			<angle units="degree">90</angle>
+			<mask>
+				<imgfile>Nord.png</imgfile>
+				<audiofile>Nord.wav</audiofile>
+				<textfile>Nord.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<WaveGen>
+			<pitch units="mm">1</pitch>
+			<angle units="degree">45</angle>
+			<mask>
+				<imgfile>Nord-est.png</imgfile>
+				<audiofile>Nord-est.wav</audiofile>
+				<textfile>Nord-est.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<WaveGen>
+			<pitch units="mm">2</pitch>
+			<angle units="degree">135</angle>
+			<mask>
+				<imgfile>Zone1.png</imgfile>
+				<audiofile>Zone1.wav</audiofile>
+				<textfile>Zone1.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<WaveGen>
+			<pitch units="mm">3</pitch>
+			<angle units="degree">45</angle>
+			<mask>
+				<imgfile>Centre.png</imgfile>
+				<audiofile>Centre.wav</audiofile>
+				<textfile>Centre.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+		<WaveGen>
+			<pitch units="mm">4</pitch>
+			<angle units="degree">90</angle>
+			<mask>
+				<imgfile>Zone2.png</imgfile>
+				<audiofile>Zone2.wav</audiofile>
+				<textfile>Zone2.txt</textfile>
+				<blur>yes</blur>
+				<grayScale>245</grayScale>
+				<scale>0.9</scale>
+			</mask>
+		</WaveGen>
+	</ComboGen>
+</Generator>
