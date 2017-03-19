@@ -34,7 +34,7 @@ public:
 	virtual ~GeneratorHandle();
 	virtual void AppendXML(latero::graphics::XMLOutputNode &root) const {};
 	virtual latero::graphics::gtk::Animation GetIllustration(uint w, boost::posix_time::time_duration t) const;
-	virtual void PlayAudio(audiere::AudioDevicePtr dev);
+	virtual void PlayAudio(latero::graphics::AudioDevicePtr dev);
 	void SetGenerator(latero::graphics::GeneratorPtr gen);
 	latero::graphics::GeneratorPtr GetGenerator();
 	virtual bool OnKeyPress(GdkEventKey* event);

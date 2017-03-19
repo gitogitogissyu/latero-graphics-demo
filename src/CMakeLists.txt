@@ -63,7 +63,7 @@ set(demo_SRCS
 	${demo_BRAILLE_SRCS})
 
 add_executable(latero-demo ${demo_SRCS})
-target_link_libraries(latero-demo ${LATERO_GRAPHICS_LIBRARIES} boost_program_options-mt audiere)
+target_link_libraries(latero-demo ${LATERO_GRAPHICS_LIBRARIES} boost_program_options-mt)
 install_programs(/bin latero-demo)
 
 # generate config.h

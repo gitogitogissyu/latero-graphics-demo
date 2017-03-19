@@ -56,7 +56,7 @@ latero::graphics::gtk::Animation GeneratorHandle::GetIllustration(uint w, boost:
 		return Generator::GetIllustration(w,t);
 }
 
-void GeneratorHandle::PlayAudio(audiere::AudioDevicePtr dev)
+void GeneratorHandle::PlayAudio(latero::graphics::AudioDevicePtr dev)
 {
 	latero::graphics::GeneratorPtr gen = GetGenerator();
 	if (gen)
