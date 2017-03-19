@@ -21,3 +21,22 @@ Step 2: Build latero-demo
 >> sudo xcodebuild -target install
 
 You should now be able to launch the program latero-demo from /src/Debug/.
+
+
+Cygwin
+*********
+
+Step 1: Make sure the latero and latero-graphics library is installed
+--------------------------------------------------
+See instructions in INSTALL file for latero and latero-graphics projects.
+
+
+Step 2: Build latero-demo
+-----------------------------
+-- Build latero-gui
+>> cmake .
+>> make
+>> make install
+
+You should now be able to launch the program latero-demo from /src/Debug/.
+
